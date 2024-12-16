@@ -1,0 +1,12 @@
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\bin\Debug\net6.0\SolveMathFirstExpression.Lib.deps.json
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\bin\Debug\net6.0\SolveMathFirstExpression.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\bin\Debug\net6.0\SolveMathFirstExpression.Lib.pdb
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\obj\Debug\net6.0\SolveMathFirstExpression.Lib.csproj.AssemblyReference.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\obj\Debug\net6.0\SolveMathFirstExpression.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\obj\Debug\net6.0\SolveMathFirstExpression.Lib.AssemblyInfoInputs.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\obj\Debug\net6.0\SolveMathFirstExpression.Lib.AssemblyInfo.cs
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\obj\Debug\net6.0\SolveMathFirstExpression.Lib.csproj.CoreCompileInputs.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\obj\Debug\net6.0\SolveMathFirstExpression.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\obj\Debug\net6.0\refint\SolveMathFirstExpression.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\obj\Debug\net6.0\SolveMathFirstExpression.Lib.pdb
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveMathFirstExpression.Lib\obj\Debug\net6.0\ref\SolveMathFirstExpression.Lib.dll

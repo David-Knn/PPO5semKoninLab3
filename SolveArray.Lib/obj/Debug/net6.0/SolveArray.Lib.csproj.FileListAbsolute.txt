@@ -1,0 +1,12 @@
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\bin\Debug\net6.0\SolveArray.Lib.deps.json
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\bin\Debug\net6.0\SolveArray.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\bin\Debug\net6.0\SolveArray.Lib.pdb
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\obj\Debug\net6.0\SolveArray.Lib.csproj.AssemblyReference.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\obj\Debug\net6.0\SolveArray.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\obj\Debug\net6.0\SolveArray.Lib.AssemblyInfoInputs.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\obj\Debug\net6.0\SolveArray.Lib.AssemblyInfo.cs
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\obj\Debug\net6.0\SolveArray.Lib.csproj.CoreCompileInputs.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\obj\Debug\net6.0\SolveArray.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\obj\Debug\net6.0\refint\SolveArray.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\obj\Debug\net6.0\SolveArray.Lib.pdb
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveArray.Lib\obj\Debug\net6.0\ref\SolveArray.Lib.dll

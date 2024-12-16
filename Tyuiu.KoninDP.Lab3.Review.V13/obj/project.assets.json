@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SolveArray.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SolveArray.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveArray.Lib.dll": {}
+        }
+      },
+      "SolveCalculate.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SolveCalculate.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveCalculate.Lib.dll": {}
+        }
+      },
+      "SolveMathFirstExpression.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SolveMathFirstExpression.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveMathFirstExpression.Lib.dll": {}
+        }
+      },
+      "SolveMathSecondExpression.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SolveMathSecondExpression.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveMathSecondExpression.Lib.dll": {}
+        }
+      },
+      "SolveTabMathFuction.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SolveTabMathFuction.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveTabMathFuction.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolveArray.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveArray.Lib/SolveArray.Lib.csproj",
+      "msbuildProject": "../SolveArray.Lib/SolveArray.Lib.csproj"
+    },
+    "SolveCalculate.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveCalculate.Lib/SolveCalculate.Lib.csproj",
+      "msbuildProject": "../SolveCalculate.Lib/SolveCalculate.Lib.csproj"
+    },
+    "SolveMathFirstExpression.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveMathFirstExpression.Lib/SolveMathFirstExpression.Lib.csproj",
+      "msbuildProject": "../SolveMathFirstExpression.Lib/SolveMathFirstExpression.Lib.csproj"
+    },
+    "SolveMathSecondExpression.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveMathSecondExpression.Lib/SolveMathSecondExpression.Lib.csproj",
+      "msbuildProject": "../SolveMathSecondExpression.Lib/SolveMathSecondExpression.Lib.csproj"
+    },
+    "SolveTabMathFuction.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveTabMathFuction.Lib/SolveTabMathFuction.Lib.csproj",
+      "msbuildProject": "../SolveTabMathFuction.Lib/SolveTabMathFuction.Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SolveArray.Lib >= 1.0.0",
+      "SolveCalculate.Lib >= 1.0.0",
+      "SolveMathFirstExpression.Lib >= 1.0.0",
+      "SolveMathSecondExpression.Lib >= 1.0.0",
+      "SolveTabMathFuction.Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\konin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\Tyuiu.KoninDP.Lab3.Review.V13\\Tyuiu.KoninDP.Lab3.Review.V13.csproj",
+      "projectName": "Tyuiu.KoninDP.Lab3.Review.V13",
+      "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\Tyuiu.KoninDP.Lab3.Review.V13\\Tyuiu.KoninDP.Lab3.Review.V13.csproj",
+      "packagesPath": "C:\\Users\\konin\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\Tyuiu.KoninDP.Lab3.Review.V13\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\konin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\SolveArray.Lib\\SolveArray.Lib.csproj": {
+              "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\SolveArray.Lib\\SolveArray.Lib.csproj"
+            },
+            "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\SolveCalculate.Lib\\SolveCalculate.Lib.csproj": {
+              "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\SolveCalculate.Lib\\SolveCalculate.Lib.csproj"
+            },
+            "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\SolveMathFirstExpression.Lib\\SolveMathFirstExpression.Lib.csproj": {
+              "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\SolveMathFirstExpression.Lib\\SolveMathFirstExpression.Lib.csproj"
+            },
+            "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\SolveMathSecondExpression.Lib\\SolveMathSecondExpression.Lib.csproj": {
+              "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\SolveMathSecondExpression.Lib\\SolveMathSecondExpression.Lib.csproj"
+            },
+            "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\SolveTabMathFuction.Lib\\SolveTabMathFuction.Lib.csproj": {
+              "projectPath": "C:\\Projects\\ППО 3 курс 1 сем\\Tyuiu.KoninDP.Lab3\\SolveTabMathFuction.Lib\\SolveTabMathFuction.Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

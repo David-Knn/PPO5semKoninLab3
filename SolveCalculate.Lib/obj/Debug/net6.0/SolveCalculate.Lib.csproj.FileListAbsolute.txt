@@ -1,0 +1,12 @@
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\bin\Debug\net6.0\SolveCalculate.Lib.deps.json
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\bin\Debug\net6.0\SolveCalculate.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\bin\Debug\net6.0\SolveCalculate.Lib.pdb
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\obj\Debug\net6.0\SolveCalculate.Lib.csproj.AssemblyReference.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\obj\Debug\net6.0\SolveCalculate.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\obj\Debug\net6.0\SolveCalculate.Lib.AssemblyInfoInputs.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\obj\Debug\net6.0\SolveCalculate.Lib.AssemblyInfo.cs
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\obj\Debug\net6.0\SolveCalculate.Lib.csproj.CoreCompileInputs.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\obj\Debug\net6.0\SolveCalculate.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\obj\Debug\net6.0\refint\SolveCalculate.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\obj\Debug\net6.0\SolveCalculate.Lib.pdb
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveCalculate.Lib\obj\Debug\net6.0\ref\SolveCalculate.Lib.dll

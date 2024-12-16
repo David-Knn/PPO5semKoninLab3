@@ -1,0 +1,12 @@
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\bin\Debug\net6.0\SolveTabMathFuction.Lib.deps.json
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\bin\Debug\net6.0\SolveTabMathFuction.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\bin\Debug\net6.0\SolveTabMathFuction.Lib.pdb
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\obj\Debug\net6.0\SolveTabMathFuction.Lib.csproj.AssemblyReference.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\obj\Debug\net6.0\SolveTabMathFuction.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\obj\Debug\net6.0\SolveTabMathFuction.Lib.AssemblyInfoInputs.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\obj\Debug\net6.0\SolveTabMathFuction.Lib.AssemblyInfo.cs
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\obj\Debug\net6.0\SolveTabMathFuction.Lib.csproj.CoreCompileInputs.cache
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\obj\Debug\net6.0\SolveTabMathFuction.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\obj\Debug\net6.0\refint\SolveTabMathFuction.Lib.dll
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\obj\Debug\net6.0\SolveTabMathFuction.Lib.pdb
+C:\Projects\ППО 3 курс 1 сем\Tyuiu.KoninDP.Lab3\SolveTabMathFuction.Lib\obj\Debug\net6.0\ref\SolveTabMathFuction.Lib.dll
